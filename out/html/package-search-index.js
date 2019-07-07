@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"org.opensourcephysics.frames"}]
+packageSearchIndex = [{"l":"org.opensourcephysics.controls"}]

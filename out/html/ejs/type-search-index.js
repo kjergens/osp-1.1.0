@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"org.opensourcephysics.ejs","l":"EjsRes"},{"p":"org.opensourcephysics.ejs","l":"LauncherApplet"},{"p":"org.opensourcephysics.ejs","l":"Model"},{"p":"org.opensourcephysics.ejs","l":"Simulation"},{"p":"org.opensourcephysics.ejs","l":"View"}]

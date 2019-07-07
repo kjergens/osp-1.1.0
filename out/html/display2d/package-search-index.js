@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"org.opensourcephysics.display2d"}]
